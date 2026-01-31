@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mashhoor Ahdal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [github.com/mashhoor-ahdal](github.com/mashhoor-ahdal)
-
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me **mashhoorahdal2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
