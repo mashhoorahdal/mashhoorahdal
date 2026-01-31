@@ -2,7 +2,6 @@
 
 ### Software Engineer with 3 year of experience
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mashhoorahdal&label=Profile views&color=0e75b6&style=flat" alt="mashhoorahdal" /> </p>
 
 - 🌱 I'm currently learning **DSA, Distributed System, Building end-to-end project, System Design**
 
