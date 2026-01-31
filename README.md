@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mashhoor Ahdal 
 
-### Software Engineer with 3 year of experience
+### Software Engineer with 2+ year of experience
 
 
 - 🌱 I'm currently learning **DSA, Distributed System, Building end-to-end project, System Design**
