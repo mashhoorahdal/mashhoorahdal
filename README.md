@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mashhoorahdal2@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://mashhoorahdal.github.io/portfolio](https://mashhoorahdal.github.io/portfolio)**
+- 👨‍💻 Porfolio **[https://mashhoorahdal.github.io/portfolio](https://mashhoorahdal.github.io/portfolio)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
