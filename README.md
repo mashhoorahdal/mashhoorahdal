@@ -5,8 +5,6 @@
 
 - 🌱 I'm currently learning **DSA, Distributed System, Building end-to-end project, System Design**
 
-- 📫 How to reach me **mashhoorahdal2@gmail.com**
-
 - 👨‍💻 Porfolio **[https://mashhoorahdal.github.io/portfolio](https://mashhoorahdal.github.io/portfolio)**
 
 <h3 align="left">Connect with me:</h3>
