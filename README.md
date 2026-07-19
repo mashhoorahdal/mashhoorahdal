@@ -65,7 +65,6 @@ I enjoy taking a product from a rough idea to a working system designing the API
 |---|---|
 | **[Portfolio](https://mashhoorahdal.github.io/portfolio)** | Selected work, experiments, and more about me. |
 | **[Repositories](https://github.com/mashhoorahdal?tab=repositories)** | The things I'm building, learning, and improving in public. |
-| **[Dotfiles](https://github.com/mashhoorahdal/dotfiles)** | My development environment and Linux setup. |
 
 ---
 
