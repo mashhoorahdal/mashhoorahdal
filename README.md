@@ -30,7 +30,7 @@ const mashhoor = {
 };
 ```
 
-I enjoy taking a product from a rough idea to a working system—designing the API, shaping the data flow, building the interface, and making the whole thing dependable in production.
+I enjoy taking a product from a rough idea to a working system designing the API, shaping the data flow, building the interface, and making the whole thing dependable in production.
 
 ### What I'm focused on
 
