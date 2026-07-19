@@ -3,7 +3,7 @@
 ### Software Engineer with 2+ year of experience
 
 
-- 🌱 I'm currently learning **DSA, Distributed System, Building end-to-end project, System Design**
+- 🌱 I'm currently learning **DSA, Distributed Systems, Building end-to-end project with Agentic capabilities, System Design**
 
 - 👨‍💻 Porfolio **[https://mashhoorahdal.github.io/portfolio](https://mashhoorahdal.github.io/portfolio)**
 
